@@ -1,0 +1,1 @@
+# como-gerar-e-configurar-chave-ssh-no-ubuntu-e-adiciona-ao-github
